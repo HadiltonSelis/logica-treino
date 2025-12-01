@@ -23,3 +23,15 @@ function maiorNumero(arr){
 }
 
 console.log(maiorNumero([23,55,43,77]));
+
+//Média notas
+
+function mediaAluno(nota1, nota2){
+    var media = (nota1 + nota2) / 2;
+
+    if(media >= 7){
+        console.log("Aluno aprovado com a média: " + media)
+    }else if(media < 7){
+        console.log("Aluno reprovado com média : " + media)
+    }
+}
