@@ -15,3 +15,11 @@ function parOuImpar(n) {
 }
 
 console.log(parOuImpar(11));
+
+//Maior número do array
+
+function maiorNumero(arr){
+    return Math.max(...arr);
+}
+
+console.log(maiorNumero([23,55,43,77]));
