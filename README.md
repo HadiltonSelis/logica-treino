@@ -4,3 +4,4 @@ Dividir esse repositório em pastas, e em cada pasta esta escrito o conteúdo pr
 
 - Entendendo Funções<br>
 - Switch<br>
+- Calculadora IMC<br>
