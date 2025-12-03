@@ -1,7 +1,6 @@
 # logica-treino
-Exercícios de lógica de programação
+Esse repositorio fiz para treinar javascript, logica de programação.
+Dividir esse repositório em pastas, e em cada pasta esta escrito o conteúdo principal que ela representa.
 
-1. Soma de dois números<br>
-2. Par ou ímpar<br>
-3. Maior númro do array<br>
-4. Media notas<br>
+- Entendendo Funções<br>
+- Switch<br>
