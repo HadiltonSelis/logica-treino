@@ -6,3 +6,4 @@ Dividir esse repositório em pastas, e em cada pasta esta escrito o conteúdo pr
 - Switch<br>
 - Calculadora IMC<br>
 - Temporizadores<br>
+- Requisições HTTP<br>
