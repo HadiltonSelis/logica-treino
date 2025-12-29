@@ -22,11 +22,12 @@ header{
     flex-direction: column;
     justify-content: center;
     width: 700px;
-    background-color: #FFF;
+    background-color: #ffffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     border-width: 1px;
     margin: 8px;
-    padding: 10px;
+    padding: 20px;
 }
 
 .titulo{
